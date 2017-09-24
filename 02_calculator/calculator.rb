@@ -21,7 +21,6 @@ end
 
 def power(x,y)
   return x**y
-
 end
 
 def factorial(x)
